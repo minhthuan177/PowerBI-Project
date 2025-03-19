@@ -1,5 +1,5 @@
 # PowerBI-Project
-Báo cáo kết quả kinh doanh của công ty, so sánh với cùng kỳ năm trước.
+Báo cáo kết quả kinh doanh của công ty Plant Co., so sánh với cùng kỳ năm trước.
 Dataset: Plant_DTS.xls
 
 Công thức:
